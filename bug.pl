@@ -1,0 +1,1 @@
+my $string = "This is a string with a \n newline character.";print length($string); # This will print the length of the string INCLUDING the newline character.
