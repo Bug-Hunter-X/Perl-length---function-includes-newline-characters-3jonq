@@ -1,0 +1,1 @@
+This repository contains a Perl script demonstrating an uncommon error related to the length() function. The script includes a string with an escaped newline character, and the length() function incorrectly includes the newline character in its length calculation. A solution is provided to accurately determine the string length without including escape sequences.
